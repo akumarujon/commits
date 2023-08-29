@@ -4,11 +4,11 @@
 
 ### Clone this repository
 ```bash
-git clone https://github.com/triistam/fake-commits
+git clone https://github.com/akumarujon/commits
 ```
 and
 ```bash
-cd fake-commits
+cd commits
 ```
 
 Remove remote:

@@ -3,7 +3,7 @@ use std::fs;
 
 fn main(){
 
-    const NUMBER_OF_COMMITS: i32 = 4000;
+    const NUMBER_OF_COMMITS: i32 = 3000;
 
     let mut count: i32 = 2000;
 
